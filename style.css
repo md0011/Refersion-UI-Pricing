@@ -64,7 +64,7 @@ header {
   float: left;
   list-style: none;
   padding: 5px;
-  margin: 13px 7px;
+  margin: 13px 0;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
 }
@@ -79,7 +79,7 @@ header {
 }
 
 #space {
-  margin-left: 80px;
+  margin-left: 30px;
 }
 
 .navbar button {
