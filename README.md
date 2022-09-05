@@ -1,12 +1,12 @@
 # Refersion UI Pricing
 
-Technologies used:
+## Technologies used:
 
 - HTML
 
 - CSS
 
-File structure:
+## File structure:
 
 - img - Storing all images related to project.
 
@@ -14,7 +14,7 @@ File structure:
 
 - style.css - Style website using .css extension.
 
-Challenges:
+## Challenges:
 
 -   Make it responsive
 
