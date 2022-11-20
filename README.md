@@ -18,4 +18,4 @@
 
 -   Make it responsive
 
--   Make it as it is, which I refer for UI.
+-   Make as it is, which I refer for UI.
